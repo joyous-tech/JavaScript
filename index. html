@@ -9,7 +9,7 @@
 </head>
 <style>
    
-    .container{
+.container{
         background-color: teal;
         height: 40vh;
         margin: 80px auto;
